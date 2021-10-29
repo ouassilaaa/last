@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "969570189984",
+    "project_id": "projet-fil-rouge-memoire-999de",
+    "storage_bucket": "projet-fil-rouge-memoire-999de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969570189984:android:c3ca92042151900f4affc5",
+        "android_client_info": {
+          "package_name": "com.example.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969570189984-avele4v427i20k5i1h4lsdh9aubrgg6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registration",
+            "certificate_hash": "1ff08836ed9dbfdd3a97118a96601b7f5feb4dcc"
+          }
+        },
+        {
+          "client_id": "969570189984-2qcoteknu9bv2d6dvguaaprkd5fomjq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz3h4bIxco9mtZkceEEyEmdHxaE_an5rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969570189984-2qcoteknu9bv2d6dvguaaprkd5fomjq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
